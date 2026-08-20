@@ -16,6 +16,12 @@ description: An open-source SDK that lets you easily build agents that can call 
 url: https://github.com/microsoft/semantic-kernel
 tags:
   - Agents
+  - Artificial Intelligence
+  - LLM
+  - Orchestration
+  - SDK
+tags_raw:
+  - Agents
   - AI
   - LLM
   - Orchestration
